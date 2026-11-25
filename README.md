@@ -29,4 +29,4 @@ http://localhost:8000.
 ## Publicación
 
 Se publica con GitHub Pages desde la rama `main`, carpeta raíz (Settings → Pages). La dirección
-queda como https://wilrojasdev.github.io/enfiestate-app/
+queda como https://carlosjavierrivasvillegas.github.io/ENFIESTATE/
